@@ -6,6 +6,7 @@
 
 **Reimagining school dismissal logistics for Dubai's Roads & Transport Authority (RTA)**
 
+[![3rd Place — RTA Hackathon](https://img.shields.io/badge/RTA_Hackathon-3rd_Place-FFD700?style=for-the-badge&logo=trophy&logoColor=white)](#)
 [![Next.js](https://img.shields.io/badge/Next.js_14-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
@@ -13,7 +14,7 @@
 
 ---
 
-*Built as a functional prototype for the RTA Dubai Hackathon — demonstrating a complete pickup management ecosystem with parent-facing mobile app and operations dashboard.*
+**3rd Place Winner** at the RTA Dubai Hackathon — a functional prototype demonstrating a complete pickup management ecosystem with a parent-facing mobile app and operations dashboard.
 
 [Getting Started](#-getting-started) · [Features](#-features) · [Architecture](#-architecture) · [Demo Guide](#-demo-walkthrough)
 
